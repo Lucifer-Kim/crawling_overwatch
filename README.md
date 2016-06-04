@@ -1,5 +1,5 @@
 # crawling_overwatch
-오버워치 공홈에서 동료모집을 크롤링해온다.
+오버워치(http://kr.battle.net/forums/ko/overwatch/5018709/) 공홈에서 동료모집을 크롤링해온다.
 
 Requirements
 ===============
